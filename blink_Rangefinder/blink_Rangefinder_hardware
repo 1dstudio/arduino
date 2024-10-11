@@ -1,0 +1,8 @@
+Hardware Setup:
+
+Arduino Uno
+	1.	Connect the HC-SR04 sensor to your Arduino:
+	•	VCC to 5V on the Arduino.
+	•	GND to GND on the Arduino.
+	•	Trig pin to pin 9 on the Arduino.
+	•	Echo pin to pin 10 on the Arduino.
