@@ -1,2 +1,2 @@
-# arduino
+# Arduino Uno
 Arduino uno projects
